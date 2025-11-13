@@ -5,7 +5,7 @@
     font-family: 'Roboto';
     font-size: 21px;
     margin: 0;
-    padding: auto;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -106,4 +106,5 @@ section#tela {
         width: 100%;
         grid-template-columns: repeat(4, 1fr);
     }
+
 }
